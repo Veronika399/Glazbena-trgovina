@@ -1,2 +1,2 @@
 # Glazbena-trgovina
-Web stranica - glazbena trgovina. Koristi se baza Firebase.
+Web stranica - glazbena trgovina. Koristi se Firebase.
